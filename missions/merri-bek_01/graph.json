@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "config": {
+    "mission": "Map the regional development funding ecosystem in Tasmania — trace how federal programs flow through state bodies to local projects, and identify which Tasmanian councils and community organisations are most (and least) connected to the system.",
+    "country": "Australia",
+    "country_tld": ".au",
+    "seed_url": "https://rdatasmania.org.au/",
+    "auto_mode": false,
+    "auto_target_nodes": 100,
+    "auto_crystallise_every": 10,
+    "saved_at": 1790034547.0986676
+  },
+  "nodes": {},
+  "frontier": [],
+  "concepts": {},
+  "syntheses": [],
+  "required_domains": [],
+  "scaffold": null,
+  "blocked_sources": [],
+  "landscape_objects": [],
+  "interventions": [],
+  "seeded_domains": [],
+  "surveyed_domains": [],
+  "crystallised_at_counts": []
+}
